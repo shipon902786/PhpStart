@@ -17,6 +17,59 @@ echo "<h1>Multiplication Is: $mul</h1>";
 echo "<h1>Multiplication Is: $div</h1>";
 
 
+echo "<h1>Summetion Is: $sum</h1>";
+echo "<h1>Biyog Is: $sub</h1>";
+echo "<h1>Multiplication Is: $mul</h1>";
+echo "<h1>Multiplication Is: $div</h1>";
+
+
+echo "<h1>Summetion Is: $sum</h1>";
+echo "<h1>Biyog Is: $sub</h1>";
+echo "<h1>Multiplication Is: $mul</h1>";
+echo "<h1>Multiplication Is: $div</h1>";
+
+
+echo "<h1>Summetion Is: $sum</h1>";
+echo "<h1>Biyog Is: $sub</h1>";
+echo "<h1>Multiplication Is: $mul</h1>";
+echo "<h1>Multiplication Is: $div</h1>";
+
+echo "<h1>Summetion Is: $sum</h1>";
+echo "<h1>Biyog Is: $sub</h1>";
+echo "<h1>Multiplication Is: $mul</h1>";
+echo "<h1>Multiplication Is: $div</h1>";
+
+
+echo "<h1>Summetion Is: $sum</h1>";
+echo "<h1>Biyog Is: $sub</h1>";
+echo "<h1>Multiplication Is: $mul</h1>";
+echo "<h1>Multiplication Is: $div</h1>";
+
+
+echo "<h1>Summetion Is: $sum</h1>";
+echo "<h1>Biyog Is: $sub</h1>";
+echo "<h1>Multiplication Is: $mul</h1>";
+echo "<h1>Multiplication Is: $div</h1>";
+
+echo "<h1>Summetion Is: $sum</h1>";
+echo "<h1>Biyog Is: $sub</h1>";
+echo "<h1>Multiplication Is: $mul</h1>";
+echo "<h1>Multiplication Is: $div</h1>";
+
+
+echo "<h1>Summetion Is: $sum</h1>";
+echo "<h1>Biyog Is: $sub</h1>";
+echo "<h1>Multiplication Is: $mul</h1>";
+echo "<h1>Multiplication Is: $div</h1>";
+
+
+echo "<h1>Summetion Is: $sum</h1>";
+echo "<h1>Biyog Is: $sub</h1>";
+echo "<h1>Multiplication Is: $mul</h1>";
+echo "<h1>Multiplication Is: $div</h1>";
+
+
+
 
 
 ?>
